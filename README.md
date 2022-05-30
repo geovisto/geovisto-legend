@@ -5,7 +5,7 @@ This repository is a snapshot of Geoviosto `tools/legend` derived from the devel
 [geovisto/geovisto-map.](https://github.com/geovisto/geovisto-map)
 
 
-![sample](/home/tom/thesis/bp/obrazky/legends_final.png)
+![sample](https://raw.githubusercontent.com/geovisto/geovisto-legend/master/sample.png)
 
 ## Usage
 
