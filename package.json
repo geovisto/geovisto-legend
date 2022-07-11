@@ -1,6 +1,6 @@
 {
   "name": "geovisto-legend",
-  "version": "0.9.0",
+  "version": "0.9.1",
   "description": "Geovisto tool which provides support for legends",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
@@ -22,10 +22,10 @@
     "spatial-data",
     "visualization"
   ],
-  "homepage": "https://github.com/geovisto/geovisto-legends",
+  "homepage": "https://github.com/geovisto/geovisto-legend",
   "repository": {
     "type": "git",
-    "url": "https://github.com/geovisto/geovisto-legends"
+    "url": "https://github.com/geovisto/geovisto-legend"
   },
   "author": {
     "name": "Tomas Koscielniak",
